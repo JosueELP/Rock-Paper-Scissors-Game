@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="978fde55-ecdf-481e-9dec-9b2373541fd4" name="Default Changelist" comment="Changes to get in order the branches&#10;&#10;Ignore this commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[66194410]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="onto" value="771ad600b7b6f34f61837c8353a0d0850b7fe724" />
+  </component>
+  <component name="ProjectId" id="1ou3lP7wdSGbEU1DsURiX9CEIa8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="66194410" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-02-24T22:36:50.450Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.1713079321">
+      <recent name="com.example.rockpaper_game" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Rock&amp;Paper-Game.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="978fde55-ecdf-481e-9dec-9b2373541fd4" name="Default Changelist" comment="" />
+      <created>1614122798935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614122798935</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial &amp; functional version&#10;&#10;The firts commit includes a functional version of the app, allowing the users to play in a single mode vs a computer algorith.&#10;The computer plays are super simple and require changes in future, but for the required purposes it's OK.">
+      <created>1614216555380</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614216555380</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Changes to get in order the branches&#10;&#10;Ignore this commit">
+      <created>1614217790411</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614217790411</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial &amp; functional version&#10;&#10;The firts commit includes a functional version of the app, allowing the users to play in a single mode vs a computer algorith.&#10;The computer plays are super simple and require changes in future, but for the required purposes it's OK." />
+    <MESSAGE value="Changes to get in order the branches&#10;&#10;Ignore this commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes to get in order the branches&#10;&#10;Ignore this commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1180" y="260" key="FileChooserDialogImpl" timestamp="1614215596401">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="260" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1614215596401" />
+    <state x="-1468" y="203" key="Git.Interactive.Rebase.Dialog" timestamp="1614217583860">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1468" y="203" key="Git.Interactive.Rebase.Dialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1614217583860" />
+    <state width="1876" height="239" key="GridCell.Tab.0.bottom" timestamp="1614217642910">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1614217642910" />
+    <state width="1876" height="239" key="GridCell.Tab.0.center" timestamp="1614217642910">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="239" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1614217642910" />
+    <state width="1876" height="239" key="GridCell.Tab.0.left" timestamp="1614217642910">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="239" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1614217642910" />
+    <state width="1876" height="239" key="GridCell.Tab.0.right" timestamp="1614217642910">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="239" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1614217642910" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1614122915473">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1614122915473" />
+    <state x="-1217" y="224" key="VCS.ChangeListViewerDialog" timestamp="1614217564752">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1217" y="224" key="VCS.ChangeListViewerDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1614217564752" />
+    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2" timestamp="1614217860541">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1614217860541" />
+    <state x="-1151" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614217224590">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1151" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1614217224590" />
+    <state x="-1206" y="308" key="git4idea.merge.GitMergeDialog" timestamp="1614217941063">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1206" y="308" key="git4idea.merge.GitMergeDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1614217941063" />
+    <state x="-1271" y="308" key="git4idea.merge.GitPullDialog" timestamp="1614217392099">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1271" y="308" key="git4idea.merge.GitPullDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1614217392099" />
+    <state x="-1178" y="381" key="git4idea.rebase.GitRebaseDialog" timestamp="1614217565563">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1178" y="381" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1614217565563" />
+    <state x="-1159" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1614217179206">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1159" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1614217179206" />
+  </component>
+</project>

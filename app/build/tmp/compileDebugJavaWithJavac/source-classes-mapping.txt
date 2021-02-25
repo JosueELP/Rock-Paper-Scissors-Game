@@ -1,0 +1,6 @@
+com/example/rockpaper_game/MainActivity.java
+ com.example.rockpaper_game.MainActivity
+com/example/rockpaper_game/GameActivity.java
+ com.example.rockpaper_game.GameActivity
+com/example/rockpaper_game/BuildConfig.java
+ com.example.rockpaper_game.BuildConfig

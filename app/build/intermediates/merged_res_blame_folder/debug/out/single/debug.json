@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scissors.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\drawable\\scissors.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paper_icon.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\drawable\\paper_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paper.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\drawable\\paper.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable_title.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\drawable\\title.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rock.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\drawable\\rock.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spock.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\drawable\\spock.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rock_icon.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\drawable\\rock_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lizard_icon.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\drawable\\lizard_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spock_icon.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\drawable\\spock_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lizard.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\drawable\\lizard.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable_scissors_icon.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\drawable\\scissors_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\josue\\AndroidStudioProjects\\RockPaperGame\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    }
+]
