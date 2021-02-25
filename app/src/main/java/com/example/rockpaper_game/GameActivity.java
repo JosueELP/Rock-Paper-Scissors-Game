@@ -83,7 +83,6 @@ public class GameActivity extends AppCompatActivity {
             computerGame();
             checkGame();
         }
-
     }
 
     public void computerGame(){
