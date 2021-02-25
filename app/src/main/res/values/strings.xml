@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Rock&amp;Paper-Game</string>
+    <string name="title">Piedra, Papel, Tijera</string>
+    <string name="button_play">Jugar!</string>
+    <string name="text_usuario">Jugador</string>
+    <string name="text_computador">CPU</string>
+    <string name="text_empates">Empates</string>
+    <string name="text_seleccion">Tu selección</string>
+    <string name="button_salir">Salir</string>
+    <string name="text_roca">ROCA</string>
+    <string name="text_papel">PAPEL</string>
+    <string name="text_tijeras">TIJERAS</string>
+    <string name="text_lagarto">LAGARTO</string>
+    <string name="text_spock">SPOCK</string>
+    <string name="text_empate">ES UN EMPATE</string>
+    <string name="text_ganar">GANASTE</string>
+    <string name="text_perder">PERDISTE</string>
+    <string name="text_selecciona">SELECCIONA UNA OPCION</string>
+    <string name="text_creditos">Aplicación hecha por:</string>
+    <string name="text_nombreAutor">Josué Enrique Luna Palafox</string>
+</resources>
